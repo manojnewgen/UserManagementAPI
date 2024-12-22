@@ -1,0 +1,92 @@
+# ASP.NET Core files
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# Local History for Visual Studio
+.history/
+
+# NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Backup files
+*.bak
+
+# Application files
+*.config
+*.xml
+
+# Logs
+*.log
+logs/
+log/
+
+# DotNet
+*.dotnet_release
+*.dotnet_test_release
+*.dotnet_logs
+*.dotnet_test_logs
+
+#
